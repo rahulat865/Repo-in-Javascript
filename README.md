@@ -1,2 +1,4 @@
 # Repo-in-Javascript
-My Repository on Javascript .
+Combition of HTML +  CSS + Javascript
+Projects for begineers
+
